@@ -1,4 +1,9 @@
-# CS229 Pool Game AI
+# Deep Cue Learning: A Reinforcement Learning Agent for Pool
+
+A reinforcement learning AI for playing Pool. Methods include Q-Table, Deep Q-Network (DQN), and Asynchronous Advantage Actor-Critic (A3C).
+
+[Report](http://cs229.stanford.edu/proj2018/report/249.pdf).
+[Poster](http://cs229.stanford.edu/proj2018/poster/249.pdf).
 
 ## Usage
 
